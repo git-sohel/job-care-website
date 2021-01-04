@@ -1,0 +1,91 @@
+body {
+    width: 100%;
+    background: #ffffff;
+
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    height: auto; 
+    /* border: 2px solid #A9A0A0; */
+}
+li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+/* #signup{
+    margin-left: 50%;
+} */
+/* .main-body{
+    width: 100%;
+} */
+.three-part {
+    width: 100%;
+    /* border: 1px solid black; */
+}
+.image{
+    width: 30%;
+    border: 3px solid black; 
+    display: inline-block;
+    height: 200px;
+    margin-left: 20px;
+    text-align: center;
+}
+.two-part{
+    width: 100%;
+   
+}
+.video{
+    width: 45%;
+    border: 3px solid black; 
+    display: inline-block;
+    height: 200px;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
+.text{
+    width: 100%;
+}
+div{
+    display: inline-block;
+}
+.footer,
+.text {
+    width: 100%;
+    display: table;
+
+}
+
+#address {
+    margin: auto; padding: 5px 5px 5px 5px;
+    width: 48%;
+    height: auto;
+    display: table-cell;
+    background-color: #FAF8F8;
+    font-size: auto;
+    text-align: center;
+
+}
+.footer .text #address address img {
+    width: 50%;
+    height: auto;
+    float: left
+}
+.copy {
+    text-align: center;
+    font-weight: 20px;
+    background-color: #545256;
+    color: #DAF7A6;
+    
+}
